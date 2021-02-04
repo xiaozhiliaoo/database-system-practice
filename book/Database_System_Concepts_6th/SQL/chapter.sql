@@ -30,6 +30,8 @@ select * from student left join takes on true where student.ID=takes.ID;
 
 
 
+--------- 课后题目
+select title from course where dept name = 'Comp. Sci.' and credits = 3;
 
 
 
