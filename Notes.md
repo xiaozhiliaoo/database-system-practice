@@ -9,8 +9,9 @@ http://www.interdb.jp/pg/
 
 https://users.soe.ucsc.edu/~sbrandt/111/Slides/
 
-SQLite Database System Design and Implementation
-https://www.sqlite.org/arch.html
-https://cstack.github.io/db_tutorial/ Let's Build a Simple Database
 book <SQLite Database System Design and Implementation>
+https://www.sqlite.org/arch.html
+
+Let's Build a Simple Database
+https://cstack.github.io/db_tutorial/ 
 
