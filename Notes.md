@@ -16,3 +16,6 @@ Let's Build a Simple Database
 https://cstack.github.io/db_tutorial/ 
 
 极客时间：分布式数据库30讲-王磊
+
+【北美名校CS课程整理系列】3. 数据库系统
+https://zhuanlan.zhihu.com/p/85890799
