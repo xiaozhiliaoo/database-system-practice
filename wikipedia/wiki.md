@@ -1,3 +1,15 @@
+#分布式的site收集
+
+## wiki
+
+
+## 知名人物
+* [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker)
+* [Robert Tappan Morris](https://en.wikipedia.org/wiki/Robert_Tappan_Morris)
+
+
+## useful link
+
 https://github.com/pingcap/awesome-database-learning
 
 REDBOOK:http://www.redbook.io/
