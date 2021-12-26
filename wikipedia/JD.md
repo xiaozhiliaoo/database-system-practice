@@ -1,3 +1,6 @@
+市面上缺乏分布式文件系统，分布式KV系统概览等具体的书。而都是比较泛的书。
+分布式数据库的书有！！！
+
 Databend
 有数据库、分布式系统研发经验者优先
 熟悉 MySQL/PostgreSQL/Greenplum 等数据库系统实现原理者优先
@@ -192,3 +195,15 @@ rocksdb spdk nvmeof memcache rdma nvme 裸盘文件系统 CDN
 
 负责腾讯MongoDB内核的架构优化、新特性开发；
 负责预研分布式存储系统、数据库全文检索等相关技术，推动MongoDB技术发展；
+
+
+熟悉Rust编程语言；
+有数据库内核开发经验，如MySQL、HBase、TiDB等，有图数据库内核开发经验，如Neo4j、ArangoDB、TigerGraph等；
+熟悉上述数据库、图数据库，熟悉数据库语言理论，熟悉数据库查询引擎，熟悉数据库查询引擎优化器；
+熟悉图相关算法，如弱联通分量、最短路、PageRank、子图匹配等；
+对计算机体系结构有较深入的了解。
+
+五大常见存储系统PK｜Ceph、GlusterFS、MooseFS、HDFS、DRBD，ZFS(https://zfsonlinux.org/),
+ceph 有三种存储， rbd ,cephfs, 对象存储.
+zfs 是一个文件系统，具有很多特性，比如存储池，写时拷贝。
+目前我们用了zfs 的存储池功能，将多个磁盘组为一个大容量的磁盘，通过nfs 的方式共享给其他主机
