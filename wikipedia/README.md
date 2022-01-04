@@ -7,7 +7,7 @@
 * [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker)
 * [Robert Tappan Morris](https://en.wikipedia.org/wiki/Robert_Tappan_Morris)
 * [Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)
-
+* [Charles Bachman](https://en.wikipedia.org/wiki/Charles_Bachman)
 
 ## useful link
 
