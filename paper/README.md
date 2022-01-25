@@ -1,13 +1,8 @@
+# 论文
+
 A Relational Model of Data for Large Shared Data Banks  1970  E. F. CODD
 
 
-
-
-
-
-
-
-## 
 
 Quorum: Weighted Voting for Replicated Data  David K. Gifford
 

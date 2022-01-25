@@ -1,3 +1,7 @@
+# 课程
+
+## 国外的课程
+
 | 课程                                | 课程名字                                               | 学习顺序 |
 | ----------------------------------- | ------------------------------------------------------ | -------- |
 | Caltech_CS121                       | Database                                               |          |
@@ -23,4 +27,13 @@
 | UIUC_CS564                          | Database Management Systems: Design and Implementation |          |
 | Upenn_CIS_450.550                   | Database & Information Systems                         |          |
 | Upenn_CIS_650                       | Implementation of Data Management Systems              |          |
+
+
+## 国内的课程
+
+| 教程                                                        | 学习进度 |
+| ----------------------------------------------------------- | -------- |
+| [极客时间-分布式数据库30讲](./极客时间-分布式数据库30讲.md) |          |
+|                                                             |          |
+|                                                             |          |
 
