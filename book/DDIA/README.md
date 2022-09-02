@@ -1,3 +1,11 @@
+# 数据密集型系统
+
+Youtube分享：https://www.youtube.com/watch?v=PdtlXdse7pw&list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ&index=1
+
+B站分享：https://www.bilibili.com/video/BV1bY411L7HA?spm_id_from=333.337.search-card.all.click&vd_source=e9a79cd231e954c6a5d4a0fcacaea86a
+
+
+
 # Person
 [Pat Helland](https://dblp.org/pid/h/PatHelland.html)
 

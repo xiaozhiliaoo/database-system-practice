@@ -2,7 +2,11 @@
 
 视频地址：https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
 
-## 01 - Course Introduction & Relational Model
+https://15445.courses.cs.cmu.edu/fall2019/slides
+
+## 01 - Course Introduction & Relational Model [Done-2022-09-02]
+
+Database System Concepts 7th
 
 ## 02 - Advanced SQL
 
