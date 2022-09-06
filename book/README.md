@@ -14,10 +14,6 @@ SequoiaDB分布式数据库权威指南
 
 中国科学院研究生教学丛书：分布式数据库系统及其应用（第3版）
 
-
-
-## 国外的书
-
 《RED BOOK》
 
 《数据库系统内幕》
@@ -67,4 +63,6 @@ SequoiaDB分布式数据库权威指南
 《Foundations of Database》
 
 《数据库系统：面向应用的方法》 <databases system an application oriented approach>
+
+## 国外的书
 
