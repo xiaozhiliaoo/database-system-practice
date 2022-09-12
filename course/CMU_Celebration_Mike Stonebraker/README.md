@@ -16,9 +16,21 @@ https://www.youtube.com/watch?v=_UGUDVeSQSI&list=PLSE8ODhjZXjZO802SjzqBFFlkuKglg
 
 ## Celebration of Mike Stonebraker #5 - Streaming Databases (Stan Zdonik)
 
+
+
 ## Celebration of Mike Stonebraker #6 - MIT Impact (Sam Madden)
 
+just column no indexes
+
+vertica
+
+c-store  
+
+h-sotre
+
 ## Celebration of Mike Stonebraker #7 - Vertica & Column Stores (Andy Palmer)
+
+
 
 ## Celebration of Mike Stonebraker #8 - Students (Magda Balazinska, Andy Pavlo)
 
