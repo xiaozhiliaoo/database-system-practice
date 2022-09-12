@@ -1,6 +1,6 @@
 # database-system-practice
 
-数据库系统学习，包括数据库以及分布式数据库。偏向于论文,课程,教材。
+数据库系统学习，包括数据库以及分布式数据库。偏向于论文，课程，教材。
 
 ## Book
 
@@ -26,3 +26,6 @@
 
 [MySQL实践](https://github.com/xiaozhiliaoo/mysql-practice)
 
+## My Mendeley
+
+[Library](https://www.mendeley.com/reference-manager/library/all-references/)

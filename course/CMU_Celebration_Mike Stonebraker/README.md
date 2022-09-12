@@ -2,6 +2,8 @@
 
 https://stonebraker70.com/
 
+https://stonebraker70.com/slides/
+
 https://www.youtube.com/watch?v=_UGUDVeSQSI&list=PLSE8ODhjZXjZO802SjzqBFFlkuKglgbZD
 
 ## Celebration of Mike Stonebraker #1 - Introduction (Andy Pavlo)
