@@ -5,7 +5,9 @@ Seven Databases in seven weeks: https://db.cs.cmu.edu/seminar2014/
 
 ## MemSQL
 
-## Microsoft
+https://www.singlestore.com/
+
+## Microsoft Hekataon
 
 ## nuodb
 

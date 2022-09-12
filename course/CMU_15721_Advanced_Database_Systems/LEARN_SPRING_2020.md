@@ -6,7 +6,7 @@
 
 ## 02 - In-Memory Databases(DONE-2022-09-04)
 
-## 03 - Multi-Version Concurrency Control [Design Decisions]
+## 03 - Multi-Version Concurrency Control [Design Decisions] (DOING-AT-1hours)
 
 ## 04 - Multi-Version Concurrency Control [Protocols]
 

@@ -31,9 +31,9 @@ Join Algorithms
 
 数据库的页和操作系统页区别在哪里？
 
-## 05 - Buffer Pools + Memory Management
+## 05 - Buffer Pools + Memory Management  (Done-2022-09-05)
 
-## 06 - Hash Tables
+## 06 - Hash Tables  (Done-2022-09-09)
 
 ## 07 - Tree Indexes I
 

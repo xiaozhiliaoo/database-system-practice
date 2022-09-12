@@ -66,3 +66,4 @@ SequoiaDB分布式数据库权威指南
 
 ## 国外的书
 
+Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery
