@@ -4,6 +4,8 @@ https://db.cs.cmu.edu/seminar2022/#
 
 ## Umbra: We Germans Know Something About Databases!
 
+https://umbra-db.com/
+
 ## Snowflake Unistore!
 
 ## Architecture Insight of OceanBase: A Distributed SQL Database

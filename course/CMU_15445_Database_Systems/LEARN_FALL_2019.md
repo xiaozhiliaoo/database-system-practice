@@ -37,6 +37,10 @@ Join Algorithms
 
 ## 07 - Tree Indexes I
 
+https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
+
+Modern B-Tree Techniques Goetz Graefe
+
 ## 08 - Tree Indexes II
 
 ## 09 - Multi-Threaded Index Concurrency Control
