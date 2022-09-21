@@ -23,7 +23,8 @@ Paper:To BLOB or Not To BLOB:Large Object Storage in a Database or a Filesystem?
 How the DBMS represents the database in files on disk？ How the DBMS manages its memory and move data back-and-forth from
 disk？
 
-thread-safe B+tree
+thread-safe B+treeForeign data wrappers
+
 
 Sorting & Aggregations
 
@@ -45,7 +46,17 @@ Modern B-Tree Techniques Goetz Graefe
 
 ## 09 - Multi-Threaded Index Concurrency Control
 
+B+Tree 并发修复，SCAN。
+
+Latch & Lock
+
 ## 10 - Sorting & Aggregations
+
+逻辑查询计划。
+
+查询引擎。
+
+没太懂5个Buffer怎么排序磁盘108页呢？
 
 ## 11 - Join Algorithms
 
